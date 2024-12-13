@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="app/src/main/res/drawable/logo.png" alt="DopaMind" width="200">
+  <img src="Dopamind_Logo.png" alt="DopaMind" width="200">
   <br>
   DopaMind - Mental Health Support Application
   <br>
